@@ -1,3 +1,5 @@
 <p align="center">
-  <img src="some-image-url" width="500" alt="Machine Learning">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg"
+       width="180"
+       alt="Machine Learning">
 </p>
