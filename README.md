@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" width="500">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="500" alt="Machine Learning">
 </p>
