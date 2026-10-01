@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="500" alt="Machine Learning">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*pqZK8MvG3BdUMmGR8YZQPA.png" width="500" alt="Machine Learning">
 </p>
