@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="SVG-URL-HERE" width="500" alt="Machine Learning">
+  <img src="some-image-url" width="500" alt="Machine Learning">
 </p>
