@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" width="500" alt="Machine Learning">
+  <img src="https://svgicons.com/img/232732/brain-circuit.svg" width="300" alt="Machine Learning">
 </p>
