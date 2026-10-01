@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="500">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="180" alt="Machine Learning">
 </p>
