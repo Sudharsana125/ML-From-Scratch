@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="300" alt="Machine Learning">
+  <img src="https://img.icons8.com/fluency/480/artificial-intelligence.png" width="300" alt="Machine Learning">
 </p>
